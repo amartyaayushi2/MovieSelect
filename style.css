@@ -44,7 +44,7 @@ body{
     border-top-right-radius: 10px;
 }
 .seat.selected{
-    background-color:#6feaf6 ;
+    background-color:greenyellow ;
 }
 .seat.occupied{
     background-color: #6feaf6;
